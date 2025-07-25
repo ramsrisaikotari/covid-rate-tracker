@@ -23,4 +23,3 @@ A real-time dashboard to visualize and forecast COVID-19 infection trends using 
 ## Project Goal
 To showcase how ML + data engineering can inform critical decisions using live data and forecasting models.
 
-> ** Note:** Codebase is not public. This is a case study portfolio for demonstration purposes.
